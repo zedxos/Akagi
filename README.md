@@ -1,7 +1,8 @@
 <h1 align="center">Akagi Anime Discord Bot!</h1>
 <h3 align="center">A Multipurpose Anime bot, High Quality Music, Roleplay, Config, and More!</h3>
 <h4 align="center"><a href='https://discord.com/api/oauth2/authorize?client_id=808672429966098432&permissions=2147352049&redirect_uri=https%3A%2F%2Fdiscord.gg%2Fvzhng6MPAV&scope=bot'>Invite me~</a></h4>
-<h5 align="center"><a href="https://discord.gg/vzhng6MPAV"><img src="https://invidget.switchblade.xyz/vzhng6MPAV"/></a></h5>
+<h5 align="center"><a href='https://patreon.com/zedxos'>Support me~</a></h5>
+<h6 align="center"><a href="https://discord.gg/vzhng6MPAV"><img src="https://invidget.switchblade.xyz/vzhng6MPAV"/></a></h6>
 <html>
 <body style='background-color:LightCoral;'>
 <div class="wrapper">
