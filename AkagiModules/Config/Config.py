@@ -1,0 +1,17 @@
+# Simple bot Config
+token = ''
+default_prefix = ''
+description = ''
+reddit_client_id = ''
+reddit_client_secret = ''
+reddit_user_agent = ''
+patreon = ''
+invite_link = ''
+# Emojis
+akagi_yes = '<:akagi_yes:810162243412951042>'
+chika_pout = '<:chika_pout:810164508164489246>'
+cerberus_neko = '<:cerberus_neko:810320852235190284>'
+comfy = '<:comfy:810164735466012692>'
+mae = '<:mae:810327958866493481>'
+disappointed = '<:disapp:810164821520547861>'
+rem = '<:rem:810164621666943007>'
